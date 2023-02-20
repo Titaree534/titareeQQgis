@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+p{
+    color: blue;
+}
+/* กำหนด hr ไข่ปลา*/
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 20%;
+}
+
+img{
+    background-color: yellowgreen;
+}
+
+.mushroom{
+    background-color: white;
+}
+.cirular{
+    border-radius: 100%;
+}
+#heading{
+    color: red;
+    font-style: italic;
+}
